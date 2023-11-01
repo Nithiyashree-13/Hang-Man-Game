@@ -1,3 +1,3 @@
 #Hangman
 
-A simple game using the concept of OOPS and Tkinter module
+A simple game using the concept of OOPS and Tkinter module.
